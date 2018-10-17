@@ -1,0 +1,10 @@
+C:\tmp\ApiPublicacion\ConsumoApi\bin\Debug\ConsumoApi.exe.config
+C:\tmp\ApiPublicacion\ConsumoApi\bin\Debug\ConsumoApi.exe
+C:\tmp\ApiPublicacion\ConsumoApi\bin\Debug\ConsumoApi.pdb
+C:\tmp\ApiPublicacion\ConsumoApi\bin\Debug\Newtonsoft.Json.dll
+C:\tmp\ApiPublicacion\ConsumoApi\bin\Debug\Newtonsoft.Json.xml
+C:\tmp\ApiPublicacion\ConsumoApi\obj\Debug\ConsumoApi.csprojAssemblyReference.cache
+C:\tmp\ApiPublicacion\ConsumoApi\obj\Debug\ConsumoApi.csproj.CoreCompileInputs.cache
+C:\tmp\ApiPublicacion\ConsumoApi\obj\Debug\ConsumoApi.csproj.CopyComplete
+C:\tmp\ApiPublicacion\ConsumoApi\obj\Debug\ConsumoApi.exe
+C:\tmp\ApiPublicacion\ConsumoApi\obj\Debug\ConsumoApi.pdb
